@@ -117,6 +117,18 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Junior",
+      "species": "Human",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
